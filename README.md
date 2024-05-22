@@ -70,13 +70,13 @@ Pada pengerjaan Tugas Besar 3 ini, terdapat tiga dari empat proyek Arduino yang 
 
 ## Gambar Rangkaian
 Rangkaian dari Proyek 1 - Greenhouse Monitoring System<br><br>
-![Project1](screenshoot/Project1_Greenhouse.png)
+![Project1](img/Project1_Greenhouse.png)
 <br><br>
 Rangkaian dari Proyek 3 - Earthquake and Fire Monitoring System<br><br>
-![Project3](screenshoot/Project3_EarthquakeFire.png)
+![Project3](img/Project3_EarthquakeFire.png)
 <br><br>
 Rangkaian dari Proyek 2 - Classroom Monitoring System<br><br>
-![Project2](screenshoot/Project2_Classroom.png)
+![Project2](img/Project2_Classroom.png)
 
 ## Video Demo
 Untuk video demo, dapat diakses pada link berikut:<br>
